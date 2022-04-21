@@ -16,7 +16,7 @@
   The user should clone the [repo](https://github.com/realchavezjuan/readme-generator) from GitHub. 
 
   ## Usage 
-  A link to a video walthrough of the app is [here]. 
+  A link to a video walthrough of the app is [here](https://drive.google.com/file/d/1AOO2rPhc7PgqU54PmgyFi4La-0zGWbD2/view?usp=sharing). 
 
   In the root repo, invoke the application by using the command `node Index.js`.
 
