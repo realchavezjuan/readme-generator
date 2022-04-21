@@ -13,7 +13,7 @@
   * [Questions](#questions)
   
   ## Installation 
-  The user should clone the [repo] from GitHub. 
+  The user should clone the [repo](https://github.com/realchavezjuan/readme-generator) from GitHub. 
 
   ## Usage 
   A link to a video walthrough of the app is [here]. 
@@ -24,7 +24,7 @@
   This project is license under MIT
 
   ## Contributing 
-  The user who wants to a contribution should read the repos README file.
+  The user who wants to a contribution should read the repos README file found [here](https://github.com/realchavezjuan/readme-generator).
 
   ## Tests
   No tests available for this app.
