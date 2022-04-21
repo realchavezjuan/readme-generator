@@ -27,7 +27,7 @@
   The user who wants to a contribution should read the repos README file.
 
   ## Tests
-  npm test
+  No tests available for this app.
   
   ## Questions
   If you have any questions about this projects, please contact me directly at realchavezjuan@gmail.com. You can view more of my projects at https://github.com/realchavezjuan.
